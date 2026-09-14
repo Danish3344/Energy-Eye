@@ -1,0 +1,15 @@
+# Arduino / PlatformIO
+.pio/
+.vscode/
+*.elf
+*.hex
+*.bin
+*.map
+
+# Arduino IDE
+arduino_secrets.h
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
